@@ -8,11 +8,11 @@
 
 - Setup project using OpenGL and [Dear ImGui](https://github.com/ocornut/imgui).
 
-    ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/Dear ImGui.png)
+    ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/DearImGui.png)
 
 - Render a basic spinning cube.
 
-    ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/Spinning Cube.png)
+    ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/SpinningCube.png)
 
 - Test project compatibility on Ubuntu. Successfully build and run on Ubuntu.
 - Add some camera control. To be continued.
