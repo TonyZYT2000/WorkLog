@@ -7,6 +7,7 @@
 - Currently Distance Constraint and Volume Constraint are implemented for testing. Next step will be to incorporate into Yutong's rendering repo. 
 If it displays correctly, then will add Volumne Constraint and Shape Matching Constraint. 
 - Finished implementing the position/velocity projection methods in the solver.
+- Finished the .vtk FileLoader
 
 
 ## Week 1, 4/11 - 4/17
