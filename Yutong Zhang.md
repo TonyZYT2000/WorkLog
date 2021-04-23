@@ -7,7 +7,7 @@
 - Add a land plane for better visual effect.
 - Implement correct camera control on yaw and pitch same as in Blender.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PwXRYMNXOtc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![](http://img.youtube.com/vi/PwXRYMNXOtc/0.jpg)](https://www.youtube.com/watch?v=PwXRYMNXOtc "OpenGL + ImGui")
 
 - Plan to start integrating Bryan's PBD solver.
 
