@@ -16,8 +16,7 @@
 - Implement rotation of the camera, but the ground may get tilted. Not good.
 - Add a land plane for better visual effect.
 - Implement correct camera control on yaw and pitch same as in Blender.
-
-[![](http://img.youtube.com/vi/PwXRYMNXOtc/0.jpg)](https://www.youtube.com/watch?v=PwXRYMNXOtc "OpenGL + ImGui")
+    [![](http://img.youtube.com/vi/PwXRYMNXOtc/0.jpg)](https://www.youtube.com/watch?v=PwXRYMNXOtc "OpenGL + ImGui")
 
 - Plan to start integrating Bryan's PBD solver.
 
@@ -25,11 +24,9 @@
 
 - Learn [CMake](https://cmake.org/) building system and [Conan](https://conan.io/) package manager.
 - Setup project using OpenGL and [Dear ImGui](https://github.com/ocornut/imgui).
-
     ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/DearImGui.png)
 
 - Render a basic spinning cube.
-
     ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/SpinningCube.png)
 
 - Test project compatibility on Ubuntu. Successfully build and run on Ubuntu.
