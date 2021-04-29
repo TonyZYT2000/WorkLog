@@ -1,5 +1,9 @@
 # Simulation Environment
 
+## Week 3, 4/25 - 5/1
+
+- Add a simple Phong lighting.
+
 ## Week 2, 4/18 - 4/24
 
 - Implement all 6 translational movement of the camera.
