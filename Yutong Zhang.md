@@ -9,6 +9,9 @@
     | Wireframe | Wireframe with Culling |
     | --- | --- |
     | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/Wireframe.png) | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/Wireframe+Culling.png) |
+    
+- Outline the mesh.
+    ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/Outline-Wireframe.png)
 
 ## Week 2, 4/18 - 4/24
 
