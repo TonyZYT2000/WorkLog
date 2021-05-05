@@ -1,5 +1,13 @@
 # Simulation Environment
 
+## Week 4, 5/2 - 5/8
+
+- Design some classes for code reuse.
+- Load general obj file. Test Stanford Bunny:
+    | Ouline Mesh | Wireframe with Culling |
+    | --- | --- |
+    | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/BunnyOutline.png) | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/BunnyWire.png) |
+
 ## Week 3, 4/25 - 5/1
 
 - Add a simple Phong lighting.
