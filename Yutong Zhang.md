@@ -7,6 +7,11 @@
     | Ouline Mesh | Wireframe with Culling |
     | --- | --- |
     | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/BunnyOutline.png) | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/BunnyWire.png) |
+    
+- Export to POV-Ray scene file and render:
+    | Export Button | Render from Exported File |
+    | --- | --- |
+    | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/POVRay-Export.png) | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/POVRay-Render.png) |
 
 ## Week 3, 4/25 - 5/1
 
