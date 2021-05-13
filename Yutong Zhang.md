@@ -1,5 +1,20 @@
 # Simulation Environment
 
+## Week 5, 5/9 - 5/14
+
+- Add libigl into the project.
+- Use libigl libraries to handle mesh processing:
+    | Without libigl, Full-Resolution Rabit | With libigl, Rabit with Reduced Faces |
+    | --- | --- |
+    | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/Rabit-Full.png) | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/Rabit-Decimate.png) |
+
+- Improved POV-Ray lighting
+    | Front View | Back View |
+    | --- | --- |
+    | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/POV-Ray1.png) | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/POV-Ray2.png) |
+
+- Start combining with Bryan's solver.
+
 ## Week 4, 5/2 - 5/8
 
 - Design some classes for code reuse.
