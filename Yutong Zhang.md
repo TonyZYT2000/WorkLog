@@ -1,6 +1,12 @@
 # Simulation Environment
 
-## Week 5, 5/9 - 5/14
+## Week 7, 5/23 - 5/29
+
+## Week 6, 5/16 - 5/22
+
+- Null (busy week for midterms and homework)
+
+## Week 5, 5/9 - 5/15
 
 - Add libigl into the project.
 - Use libigl libraries to handle mesh processing:
