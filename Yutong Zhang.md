@@ -1,10 +1,17 @@
 # Simulation Environment
 
+## Week 8, 5/30 - 6/5
+
+- Robot arm hierarchy.
+
 ## Week 7, 5/23 - 5/29
+
+- Reduce warnings and debug for potential errors.
+- Make the code compatible on Linux.
 
 ## Week 6, 5/16 - 5/22
 
-- Null (busy week for midterms and homework)
+- Nothing :-\( \(busy week for midterms and homework\).
 
 ## Week 5, 5/9 - 5/15
 
