@@ -1,5 +1,9 @@
 # PBD Simulation
 
+## 8/1 - 8/7
+- Read the differentiable simulation papers.
+- Derived the gradient of the loss function and wrote in the overleaf draft. 
+
 ## Week 2, 4/18 - 4/24
 
 - On Monday, has finished a most basic Position-based Simulator.
