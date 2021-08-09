@@ -1,5 +1,30 @@
 # Simulation Environment
 
+## Week 17, 8/1 - 8/7
+- Build VIPER on Ubuntu with CUDA support.
+- Read VIPER's shader codes and migrates some effects.
+- Improve visualization of Entong's sphere data.
+    | Solid Meshes | Meshes with Outlines | Solid Spheres with Wire Rods |
+    | --- | --- | --- |
+    | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/Rod1.png) | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/Rod2.png) | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/Rod3.png) |
+
+- Improve code structure and GUI interface.
+    
+    ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/GUI.png)
+
+## Week 16, 7/25 - 7/31
+- Write a TF broadcaster.
+- Modify the main program to be a ROS node.
+- Create classes for Box, Sphere and Cylinder.
+- Create URDFObject class that reads URDF model and listens to TF.
+- Need correct transformation between ROS coord and OpenGL coord.
+
+## Week 12 13 14 15, 6/27 - 7/24
+- Learn ROS tutorials.
+- Learn TF tutorials.
+- Learn URDF tutorials.
+- Visualize Entong's sphere data.
+
 ## Week 11, 6/20 - 6/26
 - Design classes correponding to robot Link and Joint.
 - Parsing URDF:
@@ -7,7 +32,7 @@
     | --- | --- |
     | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/LinksData.png) | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/JointsData.png) |
 
-## Week 9, Week 10, 6/6 - 6/19
+## Week 9 10, 6/6 - 6/19
 - Final week and travel.
 
 ## Week 8, 5/30 - 6/5
