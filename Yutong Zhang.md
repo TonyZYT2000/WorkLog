@@ -1,5 +1,16 @@
 # Simulation Environment
 
+## Week 18, 8/8 - 8/14
+- Fix several memory leak problems.
+- Test VIPER visualization in more complicated cases.
+    | Octopus | Fiber |
+    | --- | --- |
+    | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/Octopus.png) | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/Fiber.png) |
+    
+- Better GUI.
+
+    ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/VIPER-GUI.png)
+
 ## Week 17, 8/1 - 8/7
 - Build VIPER on Ubuntu with CUDA support.
 - Read VIPER's shader codes and migrates some effects.
