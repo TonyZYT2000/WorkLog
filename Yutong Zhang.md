@@ -1,5 +1,17 @@
 # Simulation Environment
 
+## Week 19, 8/15 - 8/21
+- Discuss differentiable PBD with Bryan.
+- Fix transformation issues in URDF visualization.
+    | Simple Robot | Simple Robot in Wire Mode |
+    | --- | --- |
+    | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/r2d2.png) | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/r2d2-wire.png) |
+
+- Load dVRK models in URDF visualization.
+    | ECM | PSM |
+    | --- | --- |
+    | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/ECM.png) | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/PSM.png) |
+
 ## Week 18, 8/8 - 8/14
 - Fix several memory leak problems.
 - Test VIPER visualization in more complicated cases.
