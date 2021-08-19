@@ -11,6 +11,10 @@
     | ECM | PSM |
     | --- | --- |
     | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/ECM.png) | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/PSM.png) |
+    
+- Display coordinate axes.
+    
+    ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/Coordinate.png)
 
 ## Week 18, 8/8 - 8/14
 - Fix several memory leak problems.
