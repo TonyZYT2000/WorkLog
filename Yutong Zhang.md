@@ -1,5 +1,12 @@
 # Simulation Environment
 
+## Week 20, 8/22 - 8/28
+- Test posing the URDF model with joint state publishder.
+- Add different colors for different components.
+    | PSM in ARCSim | PSM in RViz |
+    | --- | --- |
+    | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/Posing1.png) | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/Posing2.png) |
+
 ## Week 19, 8/15 - 8/21
 - Discuss differentiable PBD with Bryan.
 - Fix transformation issues in URDF visualization.
