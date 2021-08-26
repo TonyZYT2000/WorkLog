@@ -7,6 +7,11 @@
     | --- | --- |
     | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/Posing1.png) | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/Posing2.png) |
 
+- More visual effects in VIPER visualization.
+    | Tracking a Specific Ball | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/RopeTrack.png) |
+    | --- | --- |
+    | Keeping Residuals | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/RopeResidual.png) |
+
 ## Week 19, 8/15 - 8/21
 - Discuss differentiable PBD with Bryan.
 - Fix transformation issues in URDF visualization.
