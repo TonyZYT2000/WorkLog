@@ -1,5 +1,14 @@
 # Simulation Environment
 
+## Week 21, 8/29 - 9/4
+- Improve tracking and residual effects.
+    | Tracking a Specific Ball | Keeping Residuals |
+    | --- | --- |
+    | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/RopeHeart.png) | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/RopeResidual2.png) |
+- Interpolate linear rope to render better curvature.
+
+    ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/InterpolationComparison.png)
+
 ## Week 20, 8/22 - 8/28
 - Test posing the URDF model with joint state publishder.
 - Add different colors for different components.
