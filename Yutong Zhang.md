@@ -1,39 +1,49 @@
 # Simulation Environment
 
+## Week 23, 9/12 - 9/18
+- Modeling the wound.
+- Test the wound model in PBD simulation:
+    | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/Wound1.png) | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/Wound2.png) | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/Wound3.png) |
+    | --- | --- | --- |
+
+## Week 22, 9/5 - 9/11
+- Read paper on air mesh.
+- Debug the code and fix some memory issues.
+
 ## Week 21, 8/29 - 9/4
-- Improve tracking and residual effects.
+- Improve tracking and residual effects:
     | Tracking a Specific Ball | Keeping Residuals |
     | --- | --- |
     | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/RopeHeart.png) | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/RopeResidual2.png) |
-- Interpolate linear rope to render better curvature.
+- Interpolate linear rope to render better curvature:
 
     ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/InterpolationComparison.png)
 
 ## Week 20, 8/22 - 8/28
 - Test posing the URDF model with joint state publishder.
-- Add different colors for different components.
+- Add different colors for different components:
     | PSM in ARCSim | PSM in RViz |
     | --- | --- |
     | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/Posing1.png) | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/Posing2.png) |
 
-- More visual effects in VIPER visualization.
+- More visual effects in VIPER visualization:
     | Tracking a Specific Ball | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/RopeTrack.png) |
     | --- | --- |
     | Keeping Residuals | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/RopeResidual.png) |
 
 ## Week 19, 8/15 - 8/21
 - Discuss differentiable PBD with Bryan.
-- Fix transformation issues in URDF visualization.
+- Fix transformation issues in URDF visualization:
     | Simple Robot | Simple Robot in Wire Mode |
     | --- | --- |
     | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/r2d2.png) | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/r2d2-wire.png) |
 
-- Load dVRK models in URDF visualization.
+- Load dVRK models in URDF visualization:
     | ECM | PSM |
     | --- | --- |
     | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/ECM.png) | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/PSM.png) |
     
-- Display coordinate axes.
+- Display coordinate axes:
     
     ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/Coordinate.png)
 
@@ -51,12 +61,12 @@
 ## Week 17, 8/1 - 8/7
 - Build VIPER on Ubuntu with CUDA support.
 - Read VIPER's shader codes and migrates some effects.
-- Improve visualization of Entong's sphere data.
+- Improve visualization of Entong's sphere data:
     | Solid Meshes | Meshes with Outlines | Solid Spheres with Wire Rods |
     | --- | --- | --- |
     | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/Rod1.png) | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/Rod2.png) | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/Rod3.png) |
 
-- Improve code structure and GUI interface.
+- Improve code structure and GUI interface:
     
     ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/GUI.png)
 
