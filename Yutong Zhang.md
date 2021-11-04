@@ -1,5 +1,33 @@
 # Simulation Environment
 
+## Week 29, 10/24 - 10/31
+- Parse more info from URDF.
+- Correctly display color of the Baxter:
+    | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/frame_0.png) | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/frame_3.png) | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/frame_4.png) |
+    | --- | --- | --- |
+
+## Week 28, 10/17 - 10/23
+- Display both point cloud rope with Baxter robot.
+- Align the gripper with the rope:
+    | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/Baxter%20%26%20Rope%201.png) | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/Baxter%20%26%20Rope%202.png) |
+    | --- | --- |
+
+## Week 27, 10/10 - 10/16
+- Improve URDF parsing codes.
+- Write TF listener to synchronize ROS joint status.
+- Now, we can fully replicate Baxter's gesture from RViz to our simulation program:
+    | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/Baxter1.png) | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/Baxter2.png) |
+    | --- | --- |
+
+## Week 25 26, 9/26 - 10/9
+- Read in rope files and point cloud files.
+- Visualize both the rope and the captured point cloud:
+    | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/centerline_2d_plus_lwst.gif) | ![](https://cdn.jsdelivr.net/gh/TonyZYT2000/ImageHost@master/centerline_3d_gravity.gif) |
+    | --- | --- |
+
+## Week 24, 9/19 - 9/25
+- Travel
+
 ## Week 23, 9/12 - 9/18
 - Modeling the wound.
 - Test the wound model in PBD simulation:
