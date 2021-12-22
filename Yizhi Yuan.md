@@ -1,5 +1,8 @@
 # PBD Simulation
 
+## Around Christmas
+- Successfully finished the DiffPBD demo. 
+
 ## 8/1 - 8/7
 - Read the differentiable simulation papers.
 - Derived the gradient of the loss function and wrote in the overleaf draft. 
